@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ApiCrashApplication<api-crash>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.aceleradev.apicrash.ApiCrashApplication",
+            "projectName": "api-crash",
+            "args": ""
+        }
+    ]
+}
