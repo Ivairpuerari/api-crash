@@ -108,8 +108,11 @@ ALTER TABLE **PERMISSAO**
 
 ![alt text](https://github.com/Ivairpuerari/api-crash/blob/master/classController.PNG)
 
-## Exemplo de request
+## Exemplo de request para gerar token
 
 ![alt text](https://github.com/Ivairpuerari/api-crash/blob/master/example_authorization.gif)
 
+## Exemplo de requests realizadas para os recursos disponiveis na api-crash.
+
+![alt text](https://github.com/Ivairpuerari/api-crash/blob/master/example_requests.gif)
 
