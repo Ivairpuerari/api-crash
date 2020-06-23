@@ -106,5 +106,10 @@ ALTER TABLE **PERMISSAO**
 
 ## Recursos
 
-GET 
+![alt text](https://github.com/Ivairpuerari/api-crash/blob/master/classController.PNG)
+
+## Exemplo de request
+
+![alt text](https://github.com/Ivairpuerari/api-crash/blob/master/example_authorization.gif)
+
 
